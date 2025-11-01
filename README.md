@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi, I'm Raphael (aka @Kamillendampf) 👋<br><br>- 🔧 I build practical dev tools & CLIs with a focus on clean, maintainable code<br>- 📄 Recent work: a **free PDF CLI** to read/merge PDFs right in the terminal (Python)<br>- 🧪 Developer Experience & automation: **LiquibaseXgolang** — Go wrapper for Liquibase with Testcontainers-based tests<br>- 🌱 Sustainability: **LocalFood** — a local-producer marketplace / direct sales platform<br>- 🌊 Citizen science: **GhostNet** — reporting & tracking of lost fishing gear (Java + Docker/DB)<br>- 📱 Mobile apps: **Android ToDo** (Java), **Swift ToDo** and **Quiz** apps (iOS/Swift)<br>- 📊 Data/ML: **E-commerce customer segmentation** (Python, K-Means)<br>- ⚙️ Stack: Go, Python, TypeScript, Java, Swift, PowerShell • Docker, Liquibase, PostgreSQL, Testcontainers<br>- 🤝 Open to collaboration, feedback & issues — feel free to reach out!<br>-  Telegram @Kamillendampf<br>
 
 
